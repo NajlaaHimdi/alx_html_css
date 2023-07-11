@@ -182,6 +182,9 @@ ul.row {
 
 /* Navbar
     ============================= */
+.nav {
+  display: flex;
+}
 
 
 .nav .nav-item + .nav-item {
